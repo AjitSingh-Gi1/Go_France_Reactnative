@@ -2,7 +2,7 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-
+// asdasd
 //  import { SafeAreaView, Text, View } from 'react-native';
  import HomeScreen from './screens/HomeScreen'
 import Discover from './screens/Discover';
